@@ -1,0 +1,6162 @@
+[
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 141.2,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 142.1,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 149.7,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 149.4,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 126.5,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 145.9,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 151.8,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 115.8,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 170.3,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 93.3,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 128.9,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 165.6,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 154.6,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 118.1,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 151.6,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 139.3,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 119.6,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 118.7,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 153.9,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 137.5,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 126.2,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 107.4,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 156.5,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 102.5,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 120.8,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 118.2,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 122.8,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 112.4,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 132.8,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 109.3,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 122.2,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 96.3,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 134.7,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2016,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 148.6,
+    "Precipitation": 2.657534247
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 138.3,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 132.4,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 132.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 120.6,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 134.7,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 139.2,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 129.7,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 142.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 115.2,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 152.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 161.4,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 135.7,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 131.1,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 116.7,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 130,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 158.5,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 137.1,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 154.6,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 139.5,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHWEST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 149.3,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 127.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 139.1,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 156.6,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 162,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 140.8,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 150.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 153.5,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 147.9,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 160,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2015,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 156.3,
+    "Precipitation": 2.975342466
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 160.3,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 136.4,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 134.5,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 151.8,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 151.2,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 135.2,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 143.4,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 160,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 156,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 142.6,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 152.1,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 133.6,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 139.9,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 138.9,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 153.3,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 158.3,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 134.3,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 145.5,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 141.1,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHWEST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 113.6,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 130.8,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 147.2,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 175.1,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 150.9,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 168.4,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 155.2,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 151,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2014,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 168.3,
+    "Precipitation": 3.005479452
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 138.3,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 124.5,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 106.9,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 115.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 134.9,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 100.8,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 108.3,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 118.8,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 109.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 101.4,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 120.2,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 134.5,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "LONG ISLAND",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 139.9,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 110.9,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 122.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 120.2,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 142.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 136.3,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 110.1,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 124.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 138.8,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 129.1,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 142.7,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 150.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 128.4,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 117.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 135.2,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 138.6,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 125.8,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 136.5,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 162.2,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 153.1,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 133.8,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 163.3,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 144.5,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 165.5,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 147.7,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 139.3,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2013,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 169,
+    "Precipitation": 2.408219178
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 143.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 116.5,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 136.5,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 126.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 129.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 137.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 121.7,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 105.8,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 141.4,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 123.9,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 84,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 125.1,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 120.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 118.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 148,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 133.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 122.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 152.7,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 170.4,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 145.7,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 124.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 128.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 119.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 118.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 139.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 138.9,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 126.7,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 176.4,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 101.4,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 124.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 121.9,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 138.7,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 137.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHWEST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 121.8,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 137.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 153.6,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 131.5,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 119.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 141.2,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 149.1,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 132.3,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 132.1,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 148.5,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2012,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 138.1,
+    "Precipitation": 3.704109589
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 141.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 145,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 137.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 137.7,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 130.2,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 147.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 114.9,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 110.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 93.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 101.1,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 120.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 125.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 119.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 136.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 125.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 128.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 156.4,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 127.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 132.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 136.7,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 136.4,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 121.2,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 107.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 82.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 141.4,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 130.4,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 118.9,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 130.2,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 128.8,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 127.6,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 143.9,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 132.2,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 116.8,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 121.8,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 132.2,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 139.7,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 126.7,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 131.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 138.8,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 134.3,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 144.4,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 138.5,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 127.7,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2011,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 135.1,
+    "Precipitation": 3.15890411
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 151,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 129.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 144.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 136.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 138.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 142.2,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 146.7,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 110.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 138.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 138.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 141.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 147.7,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 112.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 149.2,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 149.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 150,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 137.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 136.4,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 175.2,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 135.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 159.7,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 143.4,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 120.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 126.4,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 146.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 118.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 105.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 147,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 160.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 139.5,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 151.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 143.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 143.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 162.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 146.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 166.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 145.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 141.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 145.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 165.6,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 156.9,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 148.7,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 157.1,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 150.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 168.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 140.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 153.2,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2010,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 173.8,
+    "Precipitation": 2.624657534
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 135,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 130,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 137,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "CENTRAL",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 107,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "NORTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 130,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 69,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 143,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHWEST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2009,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 148,
+    "Precipitation": 3.021917808
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 149,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "EASTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 147,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 108,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 135,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 106,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 137,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 143,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 160,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 153,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 147,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 167,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 144,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 166,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2008,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 148,
+    "Precipitation": 2.630136986
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 135,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 144,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 135,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 137,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 149,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 123,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 118,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 152,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 133,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 137,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 123,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2007,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.169863014
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 69,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 97,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 64,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 22,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 41,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 84,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 167,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHEAST",
+    "County": "WARREN",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 118,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 64,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 102,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 85,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 185,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 72,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 118,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 135,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 130,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 157,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 140,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2006,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 3.019178082
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 152,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 127,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 145,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 102,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 118,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 107,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 164,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 109,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 161,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHEAST",
+    "County": "WARREN",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 150,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 72,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 81,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 141,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 78,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 58,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 62,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 146,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 166,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 152,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 89,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2005,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.01369863
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 106,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 89,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 123,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 154,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 151,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 163,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 150,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHEAST",
+    "County": "WARREN",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 144,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 134,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 97,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 81,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 109,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 123,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 118,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 144,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2004,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 3.076712329
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 129,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 100,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 144,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 142,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 138,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 106,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 109,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 96,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 108,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 89,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 139,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 73,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 128,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 136,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 131,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2003,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 122,
+    "Precipitation": 2.895890411
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 75,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 108,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 93,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 124,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 0,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 85,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 78,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 81,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 74,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 130,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 100,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 117,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 84,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 84,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 123,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2002,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 2.210958904
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 107,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 119,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 111,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 116,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 92,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 112,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 121,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 125,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 132,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 120,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 107,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 126,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 79,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 97,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 76,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 114,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 102,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 93,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 78,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 89,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 90,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 110,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 106,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 113,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2001,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 2.884931507
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "CAYUGA",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "CHENANGO",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "CORTLAND",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "HERKIMER",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "MADISON",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "ONEIDA",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "ONONDAGA",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "OSWEGO",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "CENTRAL",
+    "County": "OTSEGO",
+    "Commodity": "CORN",
+    "Value": 85,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "ALBANY",
+    "Commodity": "CORN",
+    "Value": 86,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "FULTON",
+    "Commodity": "CORN",
+    "Value": 80,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "MONTGOMERY",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "RENSSELAER",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "SARATOGA",
+    "Commodity": "CORN",
+    "Value": 83,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "SCHENECTADY",
+    "Commodity": "CORN",
+    "Value": 81,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "SCHOHARIE",
+    "Commodity": "CORN",
+    "Value": 90,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "EASTERN",
+    "County": "WASHINGTON",
+    "Commodity": "CORN",
+    "Value": 88,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "LONG ISLAND",
+    "County": "SUFFOLK",
+    "Commodity": "CORN",
+    "Value": 115,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHEAST",
+    "County": "CLINTON",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHEAST",
+    "County": "ESSEX",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHEAST",
+    "County": "FRANKLIN",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHEAST",
+    "County": "OTHER (COMBINED) COUNTIES",
+    "Commodity": "CORN",
+    "Value": 94,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHERN",
+    "County": "JEFFERSON",
+    "Commodity": "CORN",
+    "Value": 96,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHERN",
+    "County": "LEWIS",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "NORTHERN",
+    "County": "ST LAWRENCE",
+    "Commodity": "CORN",
+    "Value": 101,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "COLUMBIA",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "DELAWARE",
+    "Commodity": "CORN",
+    "Value": 90,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "DUTCHESS",
+    "Commodity": "CORN",
+    "Value": 85,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "GREENE",
+    "Commodity": "CORN",
+    "Value": 76,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "ORANGE",
+    "Commodity": "CORN",
+    "Value": 75,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "SULLIVAN",
+    "Commodity": "CORN",
+    "Value": 73,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHEAST",
+    "County": "ULSTER",
+    "Commodity": "CORN",
+    "Value": 72,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHERN",
+    "County": "BROOME",
+    "Commodity": "CORN",
+    "Value": 93,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHERN",
+    "County": "CHEMUNG",
+    "Commodity": "CORN",
+    "Value": 84,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHERN",
+    "County": "SCHUYLER",
+    "Commodity": "CORN",
+    "Value": 87,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHERN",
+    "County": "TIOGA",
+    "Commodity": "CORN",
+    "Value": 89,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHERN",
+    "County": "TOMPKINS",
+    "Commodity": "CORN",
+    "Value": 76,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHWEST",
+    "County": "ALLEGANY",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHWEST",
+    "County": "CATTARAUGUS",
+    "Commodity": "CORN",
+    "Value": 97,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHWEST",
+    "County": "CHAUTAUQUA",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "SOUTHWEST",
+    "County": "STEUBEN",
+    "Commodity": "CORN",
+    "Value": 91,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "ERIE",
+    "Commodity": "CORN",
+    "Value": 106,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "GENESEE",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "LIVINGSTON",
+    "Commodity": "CORN",
+    "Value": 109,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "MONROE",
+    "Commodity": "CORN",
+    "Value": 100,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "NIAGARA",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "ONTARIO",
+    "Commodity": "CORN",
+    "Value": 104,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "ORLEANS",
+    "Commodity": "CORN",
+    "Value": 103,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "SENECA",
+    "Commodity": "CORN",
+    "Value": 95,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "WAYNE",
+    "Commodity": "CORN",
+    "Value": 99,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "WYOMING",
+    "Commodity": "CORN",
+    "Value": 105,
+    "Precipitation": 2.457534247
+  },
+  {
+    "Year": 2000,
+    "Ag District": "WESTERN",
+    "County": "YATES",
+    "Commodity": "CORN",
+    "Value": 98,
+    "Precipitation": 2.457534247
+  }
+]
