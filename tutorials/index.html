@@ -9,11 +9,50 @@
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
   <!-- Load D3.js -->
   <script src="https://d3js.org/d3.v5.js"></script>
+  <!-- Import plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Import Styling -->
+  <link rel="stylesheet" href="./index.css">
 
-  <!-- Import the main script file -->
-  <script src="small_nn.js"></script>
 </head>
 
 <body>
+    <h1>Yield-Predictor</h1>
+    <!-- Import the main script file -->
+    <script src="small_nn.js"></script>
+    <div class="dropdown">
+        <button onclick="myFunction()" class="dropbtn">New York County</button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="#">Monroe</a>
+            <a href="#">Ontario</a>
+        </div>
+        <button onclick="myFunction()" class="dropbtn">Crop</button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="#">Corn</a>
+            <a href="#">Strawberries</a>
+        </div>
+        <script>/* When the user clicks on the button,
+            toggle between hiding and showing the dropdown content */
+            function myFunction() {
+              document.getElementById("myDropdown").classList.toggle("show");
+            }
+            
+            // Close the dropdown menu if the user clicks outside of it
+            window.onclick = function(event) {
+              if (!event.target.matches('.dropbtn')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                  var openDropdown = dropdowns[i];
+                  if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                  }
+                }
+              }
+            }</script>
+    </div>
+    <!-- The predicted values calculated by the neural network -->
+    <div id="cornYieldPlot"></div>
+
 </body>
 </html>

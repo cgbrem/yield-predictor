@@ -8,6 +8,8 @@
 // - train the model and monitor its performance as it trains
 // - evaluate the trained model by making some predictions
 
+var predictedData = [];
+
 console.log('Hello TensorFlow');
 /**
  * Get the weather x yield data reduced to just the variables we are interested
@@ -183,6 +185,7 @@ function convertToTensor(data) {
     );
 
     console.log(predictedPoints);
+    predictedData = predictedPoints;
   }
 
   async function run() {
@@ -219,6 +222,45 @@ function convertToTensor(data) {
     // Make some predictions using the model and compare them to the
     // original data
     testModel(model, data, tensorData);
+
+    // Create scatter plot of predicted values
+    createPlot();
   }
   
   document.addEventListener('DOMContentLoaded', run);
+
+  function createPlot(){
+    console.log(predictedData);
+    var trace1 = {
+    x: [],
+    y: [],
+    mode: 'markers',
+    type: 'scatter',
+    name: 'Predicted Corn Yields',
+    marker: { size: 5 }
+    };
+
+    var data = predictedData;
+    data.forEach(function(val){
+        trace1.x.push(val["x"]);
+        trace1.y.push(val["y"]);
+    });
+    console.log(trace1);
+    console.log(data);
+
+    var layout = {
+        autosize: false,
+        width: 500,
+        height: 500,
+        margin: {
+            l: 50,
+            r: 50,
+            b: 100,
+            t: 100,
+            pad: 4
+          },
+          paper_bgcolor: '#2980B9'
+    };
+
+    Plotly.newPlot('cornYieldPlot', [trace1], layout);
+  }
