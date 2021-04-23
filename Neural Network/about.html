@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TensorFlow.js Tutorial</title>
+  <!-- Import TensorFlow.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+  <!-- Import tfjs-vis -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
+  <!-- Load D3.js -->
+  <script src="https://d3js.org/d3.v5.js"></script>
+  <!-- Import plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Import Styling -->
+  <link rel="stylesheet" href="./index.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand" href="#">Yield Predictor</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="home.html">Home </a>
+        <a class="nav-item nav-link" href="index.html">Application</a>
+        <a class="nav-item nav-link active" href="about.html">About</a>
+        <a class="nav-item nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdB-AyIRpNYUP5QdgXLF-tFsZbvvOzs4Yfby3sg3AHXV2XcLg/viewform">Feedback Form</a>
+      </div>
+    </div>
+  </nav>
+  <div class="container text-center">
+    <div id="titleContainer" class="border-bottom border-primary text-primary">
+        <h1 style="margin-top: 100px;">About</h1>
+    </div>
+    <div id="titleContainer" class="border-bottom border-primary" style="height: 250px;">
+      <h4 class="text-primary about-titles">Author</h4>
+      <p>Carolyn Bremer</p>
+      <p>Senior at Stony Brook University</p>
+      <p>Computer Science Major</p>
+      <p>Yield Predictor is my senior thesis for the Honors College at SBU</p>
+      <p>Links: <a href="https://github.com/cgbrem">GitHub</a>, <a href="https://www.linkedin.com/in/carolyn-bremer/">Linkedin</a></p>
+    </div>
+    <div id="titleContainer" class="border-bottom border-primary" style="height: 245px;">
+      <h4 class="text-primary about-titles">Technologies Used</h4>
+      <p>This application was developed using HTML, CSS, Bootstrap, JavaScript, Plotly.js, and Tensorflow.js.</p> 
+      <p>The <a href="https://quickstats.nass.usda.gov/">USDA quick stats service</a> provided data on total crop yields.</p> 
+      <p>The <a href="https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_MACAv2_METDATA">Multivariate Adaptive Climate Analogs (MACA)</a> 
+        provided past, present, and future weather simulation data.</p> 
+      <p>GitHub was used to host the data for querying within the application.</p>
+    </div>
+    <div id="titleContainer" style="height: 275px;">
+      <h4 class="text-primary about-titles">Neural Networks</h4>
+      <p>Brief overview of how Tensorflow.js was used in this web application to train a neural network. More information can be found <a href="https://www.tensorflow.org/js">here.</a></p>
+      <p>1. Creates a sequential tensorflow model with an input and output layer.</p>
+      <p>2. Data is normalized and converted to tensors.</p>
+      <p>3. Then the model is compiled using the adam optimizer and mean squared error.</p>
+      <p>4. The batch size is 8 for the amount of months of data per year. The number of epochs is 50.</p>
+      <p>5. Then the model is tested, and here is where the yield data is predicted for the years 2021-2031.</p>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

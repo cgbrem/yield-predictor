@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TensorFlow.js Tutorial</title>
+  <!-- Import TensorFlow.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+  <!-- Import tfjs-vis -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
+  <!-- Load D3.js -->
+  <script src="https://d3js.org/d3.v5.js"></script>
+  <!-- Import plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Import Styling -->
+  <link rel="stylesheet" href="./index.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand" href="#">Yield Predictor</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link active" href="home.html">Home </a>
+        <a class="nav-item nav-link" href="index.html">Application</a>
+        <a class="nav-item nav-link" href="about.html">About</a>
+        <a class="nav-item nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdB-AyIRpNYUP5QdgXLF-tFsZbvvOzs4Yfby3sg3AHXV2XcLg/viewform">Feedback Form</a>
+      </div>
+    </div>
+  </nav>
+  <div class="container text-center">
+    <div id="titleContainer" class="border-bottom border-primary text-primary">
+      <h1 style="margin-top: 100px;">Yield Predictor</h1>
+      <a href="index.html" class="font-weight-bold btn btn-primary text-white" role="button">Try it here!</a>
+    </div>
+    <div id="titleContainer" class="border-bottom border-primary" style="height: 180px;">
+      <h4 class="text-primary about-titles">Purpose</h4>
+      <p>The purpose of this application is to help farmers predict the total yields for a specific crop that 
+        a farmer enters into the application. This web application will aid in the decision of choosing which 
+        crops to plant depending on two climate scenarios. They will be able to see predicted yields for 
+        the next 10 years and also train the model for another crop in order to compare the results between the two.</p>
+    </div>
+    <div id="titleContainer" class="border-bottom border-primary" style="height: 495px;">
+      <h4 class="text-primary about-titles">How it Works</h4>
+      <p>This application trains a neural network to predict future crop yields based on 
+      past and future weather data for Monroe County, New York. More information about the specifics of
+      the neural network can be found on the <a href="about.html">about page.</a></p>
+      <p>Weather data from March-October throughout 2006-2031 was queried from the <a href="https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_MACAv2_METDATA">MACA dataset.</a> 
+      The weather data includes Precipitation, Max Temperature, Min Temperature, and Solar Radiation.</p>
+      <p>For the future weather data, two climate curves were used RCP 4.5 and RCP 8.5. RCP 4.5 represents the
+      low emissions scenario which considers a curtailment in greenhouse gas emissions through greenhouse gas mitigation efforts.
+      RCP 8.5 represents the high emissions scenario which is the worst case scenario if we do not change our greenhouse gas usage.
+      More information can be found <a href="https://climatetoolbox.org/data/future-climate-data">here.</a>
+      </p>
+      <p>Crop yield data used to train the model was taken from the <a href="https://quickstats.nass.usda.gov/">USDA quick stats service.</a>  
+      Currently, the application supports prediction for Strawberries, Corn, Snap Peas, and Tomatoes.</p>
+      <p>The user only has to input the amount of acres they have for the crop they choose in a dropdown. 
+      Once the train model button is clicked, the neural network model will be trained and a scatter plot 
+      for both RCP 4.5 and 8.5 will be shown for the years 2021-2031. There is also an option for the user 
+      to train another model for a different crop, in order to compare the predicted yields.</p>
+    </div>
+    <div id="titleContainer" class="" style="height: 175px;">
+      <h4 class="text-primary about-titles">Data Sources</h4>
+      <p>The data was joined together and hosted on GitHub for querying within the app.</p>
+      <p><a href="https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_MACAv2_METDATA">MACA dataset</a> for all weather</p>
+      <p><a href="https://quickstats.nass.usda.gov/">USDA quick stats service</a> for crop yields</p>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

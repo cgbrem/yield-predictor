@@ -1,29 +1,58 @@
-// predicting continous numbers -> regression task
-// supervised learning -> predicting
-
-// Given "precipitation" for a county, predict "corn yield"
-// STEPS:
-// - load the data and prepare for training
-// - define the architecture of the model
-// - train the model and monitor its performance as it trains
-// - evaluate the trained model by making some predictions
 
 var predictedData = [];
+var acreAmount = undefined;
+var url = 'https://cgbrem.github.io/weather-yield-json/weather_strawberry_data.json';
+var crop = 'strawberry';
+var plotName = 'yieldPlot';
+var loader = 'loaderVisible';
+var loaderText = 'loaderText';
 
 console.log('Hello TensorFlow');
 /**
  * Get the weather x yield data reduced to just the variables we are interested
  * and cleaned of missing data.
  */
- async function getData() {
-    const weatherDataResponse = await fetch('https://cgbrem.github.io/weather-yield-json/altered_corn_yields.json');  
+ async function getData(url) {
+    const weatherDataResponse = await fetch(url);  
     const weatherData = await weatherDataResponse.json();  
     const cleaned = weatherData.map(weather => ({
-      yield: weather.Value,
-      precipitation: weather.Precipitation,
-    }))
-    .filter(weather => (weather.yield != null && weather.precipitation != null));
-    
+      yield: weather.Yield,
+      precipitation: weather.pr_rcp45
+    })).filter(d => (d.yield != null));
+    console.log(cleaned);
+    return cleaned;
+  }
+
+  async function getRCP85Data(url) {
+    const weatherDataResponse = await fetch(url);  
+    const weatherData = await weatherDataResponse.json();  
+    const cleaned = weatherData.map(weather => ({
+      yield: weather.Yield,
+      precipitation: weather.pr_rcp85
+    })).filter(d => (d.yield != null));
+    console.log(cleaned);
+    return cleaned;
+  }
+
+  async function getPredictData(url) {
+    const weatherDataResponse = await fetch(url);  
+    const weatherData = await weatherDataResponse.json();  
+    const cleaned = weatherData.map(weather => ({
+      yield: weather.Yield,
+      precipitation: weather.pr_rcp45
+    })).filter(d => (d.yield == null));
+    console.log(cleaned);
+    return cleaned;
+  }
+
+  async function getPredictData_85(url) {
+    const weatherDataResponse = await fetch(url);  
+    const weatherData = await weatherDataResponse.json();  
+    const cleaned = weatherData.map(weather => ({
+      yield: weather.Yield,
+      precipitation: weather.pr_rcp85
+    })).filter(d => (d.yield == null));
+    console.log(cleaned);
     return cleaned;
   }
 
@@ -36,31 +65,23 @@ console.log('Hello TensorFlow');
    * and what algorithm will our model use to compute its answers
    */
    function createModel() {
-    // Create a sequential model
-    // instantiates a tf.Model object
-    // sequential bc its inputs flow straight down to its output
     const model = tf.sequential(); 
-    
-    // Add a single input layer
-    // dense layer: multiplies its inputs by a matrix (called weights)
-    // then adds a number (called the bias) to the result
-    // This is the first layer so we need to define our inputShape
-    // Units sets how big the weight matrix will be in the layer
-    // units: 1 means there will be 1 weight for each of the input features of the data
-    model.add(tf.layers.dense({inputShape: [1], units: 1, useBias: true}));
-    
-    // Add an output layer
-    // Units is 1 bc we want to output 1 number
+    model.add(tf.layers.dense({inputShape: [1], units: 1, useBias: true}));    
     model.add(tf.layers.dense({units: 1, useBias: true}));
-  
     return model;
   }
 
+  function normalize(num, min, max) //converts values to the range between values 0 and 1;
+  {
+    return (num - min) * (1/(max - min));
+  }
+  function denormalize(num, min, max) //reconverts values from range between values 0 and 1 to range between Min and Max;
+  {
+    return (num / (1/(max - min))) + min;
+  }
+
   /**
- * Convert the input data to tensors that we can use for machine 
- * learning. We will also do the important best practices of _shuffling_
- * the data and _normalizing_ the data
- * Yield on the y-axis.
+ * Convert the input data to tensors that we can use
  */
 function convertToTensor(data) {
     // Wrapping these calculations in a tidy will dispose any 
@@ -68,23 +89,16 @@ function convertToTensor(data) {
     
     return tf.tidy(() => {
       // Step 1. Shuffle the data   
-      // this will randomize the order of the examples fed to the training algo
-      // important bc during training the data is broken up into smaller subsets called batches 
-      tf.util.shuffle(data);
+      //tf.util.shuffle(data);
   
       // Step 2. Convert data to Tensor
-      // array for our input (precipitation)
       const inputs = data.map(d => d.precipitation)
-      // array for our true output (yield), called labels in ML
       const labels = data.map(d => d.yield);
-      // now convert each array data to a 2d tensor
       // has shape: [inputs.length, 1] ([num_examples, num_features_per_example])
       const inputTensor = tf.tensor2d(inputs, [inputs.length, 1]);
       const labelTensor = tf.tensor2d(labels, [labels.length, 1]);
   
       // Step 3. Normalize the data to the range 0 - 1 using min-max scaling
-      // this is important bc the internals of many ML models are designed
-      // to work with small numbers
       const inputMax = inputTensor.max();
       const inputMin = inputTensor.min();  
       const labelMax = labelTensor.max();
@@ -92,7 +106,7 @@ function convertToTensor(data) {
   
       const normalizedInputs = inputTensor.sub(inputMin).div(inputMax.sub(inputMin));
       const normalizedLabels = labelTensor.sub(labelMin).div(labelMax.sub(labelMin));
-  
+      console.log('normalized');
       return {
         inputs: normalizedInputs,
         labels: normalizedLabels,
@@ -106,8 +120,6 @@ function convertToTensor(data) {
   }
 
   async function trainModel(model, inputs, labels) {
-    // Prepare the model for training.  
-    // before we train, we need to compile
     // optimizer: algo that governs the updates to the model as it sees examples
     // loss: tells the model how well it's doing on learning each of the batches
     model.compile({
@@ -117,7 +129,7 @@ function convertToTensor(data) {
     });
     
     // batchSize: size of the data subsets
-    const batchSize = 32;
+    const batchSize = 8;
     // epochs: number of times the model is going to look
     // at the entire dataset
     const epochs = 50;
@@ -128,29 +140,36 @@ function convertToTensor(data) {
     return await model.fit(inputs, labels, {
       batchSize,
       epochs,
-      shuffle: true,
-      callbacks: tfvis.show.fitCallbacks(
-        { name: 'Training Performance' },
-        ['loss', 'mse'], 
-        { height: 200, callbacks: ['onEpochEnd'] }
-      )
+      shuffle: true
+      // callbacks: tfvis.show.fitCallbacks(
+      //   { name: 'Training Performance' },
+      //   ['loss', 'mse'], 
+      //   { height: 200, callbacks: ['onEpochEnd'] }
+      // )
     });
   }
+  
 
-  function testModel(model, inputData, normalizationData) {
-    const {inputMax, inputMin, labelMin, labelMax} = normalizationData;  
-    
-    // Generate predictions for a uniform range of numbers between 0 and 1;
-    // We un-normalize the data by doing the inverse of the min-max scaling 
-    // that we did earlier.
+  async function testModel(model, inputData, normalizationData, is85) {
+    const {inputMax, inputMin, labelMin, labelMax} = normalizationData;
+    var predictData = 0;  
+    if(is85 == 1)
+      predictData = await getPredictData_85(url);
+    else
+      predictData = await getPredictData(url);
+    const inputs = predictData.map(d => d.precipitation)
+    const inputTensor = tf.tensor2d(inputs, [inputs.length, 1]);
+    const inputMax2 = inputTensor.max();
+    const inputMin2 = inputTensor.min(); 
+    const normalizedInput = inputTensor.sub(inputMin2).div(inputMax2.sub(inputMin2));
+
+
     const [xs, preds] = tf.tidy(() => {
-      // generates 100 new examples to feed the model
-      const xs = tf.linspace(0, 1, 100);     
-      // model.predict is how we feed the examples into the model 
-      const preds = model.predict(xs.reshape([100, 1]));      
+
+      const xs = normalizedInput; 
+      const preds = model.predict(xs);      
       
       // Un-normalize the data
-      // invert the operations done when normalizing
       const unNormXs = xs
         .mul(inputMax.sub(inputMin))
         .add(inputMin);
@@ -164,7 +183,6 @@ function convertToTensor(data) {
       return [unNormXs.dataSync(), unNormPreds.dataSync()];
     });
     
-   
     const predictedPoints = Array.from(xs).map((val, i) => {
       return {x: val, y: preds[i]}
     });
@@ -172,86 +190,130 @@ function convertToTensor(data) {
     const originalPoints = inputData.map(d => ({
       x: d.precipitation, y: d.yield,
     }));
-    
-    
-    tfvis.render.scatterplot(
-      {name: 'Model Predictions vs Original Data'}, 
-      {values: [originalPoints, predictedPoints], series: ['original', 'predicted']}, 
-      {
-        xLabel: 'Precipitation',
-        yLabel: 'Yield',
-        height: 300
-      }
-    );
 
-    console.log(predictedPoints);
     predictedData = predictedPoints;
+    return predictedData;
   }
 
   async function run() {
+    if(acreAmount === undefined){
+      alert("Please Enter Acre Amount");
+    }
+    else{
+    document.getElementById('acreAmountComp').disabled=false;
+    document.getElementById('cropSelectedComp').disabled=false;
+    document.getElementById('compareButton').disabled=false;
+    document.getElementById(loader).style.visibility = "visible";
+    document.getElementById(loaderText).style.visibility = "visible";
+    document.getElementById(plotName).style.visibility = "hidden";
+
     // Load and plot the original input data that we are going to train on.
-    const data = await getData();
+    console.log(url);
+    const data = await getData(url);
+    const data_85 = await getRCP85Data(url);
+    console.log(data_85)
     const values = data.map(d => ({
       x: d.precipitation,
-      y: d.yield,
+      y: d.yield
     }));
   
-    tfvis.render.scatterplot(
-      {name: 'Precipitation v Yield'},
-      {values}, 
-      {
-        xLabel: 'Precipitation',
-        yLabel: 'Yield',
-        height: 300
-      }
-    );
-  
-    // Create the model: this will create an instance of the model and
-    // show a summary of the layers on the webpage
+    // Create the model
     const model = createModel();  
-    tfvis.show.modelSummary({name: 'Model Summary'}, model);
-
+    console.log('got to after model');
+    
+    // -----FOR RCP_45 DATA-----
     // Convert the data to a form we can use for training.
     const tensorData = convertToTensor(data);
-    const {inputs, labels} = tensorData;
-    
+    var {inputs, labels} = tensorData;
     // Train the model  
     await trainModel(model, inputs, labels);
     console.log('Done Training');
+    // Make some predictions using the model and compare them to the original data
+    const predicted = await testModel(model, data, tensorData, 0);
 
-    // Make some predictions using the model and compare them to the
-    // original data
-    testModel(model, data, tensorData);
+    // -----FOR RCP_85 DATA-----
+    const model_85 = createModel();  
+    const tensorData_85 = convertToTensor(data_85);
+    console.log(tensorData_85);
+    inputs = tensorData_85.inputs;
+    labels = tensorData_85.labels;
+    console.log(inputs);
+    console.log(labels);
+    // Train the model  
+    await trainModel(model_85, inputs, labels);
+    console.log('Done Training 85');
+    // Make some predictions using the model and compare them to the original data
+    const predicted_85 = await testModel(model_85, data_85, tensorData_85, 1);
 
     // Create scatter plot of predicted values
-    createPlot();
+    createPlot(predicted, predicted_85);
   }
   
-  document.addEventListener('DOMContentLoaded', run);
+  function createPlot(predicted, predicted_85){
+    // -----FOR RCP 45-----
+    var count = 0;
+    var total = 0;
+    var means = []; // length of 11, for those years
+    for(let i = 0; i < 88; i++){
+      if(count == 7){
+        means.push(total/count);
+        total = 0;
+        count = 0;
+      }
+      else{
+        total += (predicted[i].y) * acreAmount;
+        count++;
+      }
+    }
+    console.log(means);
 
-  function createPlot(){
-    console.log(predictedData);
+    // -----FOR RCP 85-----
+    count = 0;
+    total = 0;
+    var means_85 = []; // length of 11, for those years
+    for(let i = 0; i < 88; i++){
+      if(count == 7){
+        means_85.push(total/count);
+        total = 0;
+        count = 0;
+      }
+      else{
+        total += (predicted_85[i].y) * acreAmount;
+        count++;
+      }
+    }
+    console.log(means_85);
+
     var trace1 = {
-    x: [],
-    y: [],
-    mode: 'markers',
+    x: [2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031], // years 2021-2031
+    y: [], // predicted yields
+    mode: 'lines+markers',
     type: 'scatter',
-    name: 'Predicted Corn Yields',
+    name: 'RCP 4.5',
     marker: { size: 5 }
     };
 
-    var data = predictedData;
-    data.forEach(function(val){
-        trace1.x.push(val["x"]);
-        trace1.y.push(val["y"]);
+    means.forEach(function(val){
+      trace1.y.push(val);
     });
     console.log(trace1);
-    console.log(data);
 
-    var layout = {
-        autosize: false,
-        width: 500,
-        height: 500,
+    var trace2 = {
+      x: [2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031], // years 2021-2031
+      y: [], // predicted yields
+      mode: 'lines+markers',
+      type: 'scatter',
+      name: 'RCP 8.5',
+      marker: { size: 5 }
+      };
+  
+      means_85.forEach(function(val){
+        trace2.y.push(val);
+      });
+      console.log(trace2);
+
+    var cornLayout = {
+        autosize: true,
         margin: {
             l: 50,
             r: 50,
@@ -259,8 +321,106 @@ function convertToTensor(data) {
             t: 100,
             pad: 4
           },
-          paper_bgcolor: '#2980B9'
+        title: {text: 'Predicted Total Corn Yields'},
+        xaxis: {title: {text: 'Years'}},
+        yaxis: {title: {text: 'Bushels of Corn'}}
     };
 
-    Plotly.newPlot('cornYieldPlot', [trace1], layout);
+    var strawberryLayout = {
+      autosize: true,
+      margin: {
+          l: 50,
+          r: 50,
+          b: 100,
+          t: 100,
+          pad: 4
+        },
+      title: {text: 'Predicted Total Strawberry Yields'},
+      xaxis: {title: {text: 'Years'}},
+      yaxis: {title: {text: 'CWT of Strawberries'}}
+    };
+
+    var snapLayout = {
+      autosize: true,
+      margin: {
+          l: 50,
+          r: 50,
+          b: 100,
+          t: 100,
+          pad: 4
+        },
+      title: {text: 'Predicted Total Snap Pea Yields'},
+      xaxis: {title: {text: 'Years'}},
+      yaxis: {title: {text: 'CWT of Snap Peas'}}
+    };
+
+    var tomatoLayout = {
+      autosize: true,
+      margin: {
+          l: 50,
+          r: 50,
+          b: 100,
+          t: 100,
+          pad: 4
+        },
+      title: {text: 'Predicted Total Tomato Yields'},
+      xaxis: {title: {text: 'Years'}},
+      yaxis: {title: {text: 'CWT of Tomatoes'}}
+    };
+
+    var config = {responsive: true}
+
+    if(crop === 'corn')
+      Plotly.newPlot(plotName, [trace1, trace2], cornLayout, config);
+    if(crop === 'strawberry')
+      Plotly.newPlot(plotName, [trace1, trace2], strawberryLayout, config);
+    if(crop === 'snap')
+      Plotly.newPlot(plotName, [trace1, trace2], snapLayout, config);
+    if(crop === 'tomato')
+      Plotly.newPlot(plotName, [trace1, trace2], tomatoLayout, config);
+    document.getElementById(loader).style.visibility = "hidden";
+    document.getElementById(loaderText).style.visibility = "hidden";
+    document.getElementById(plotName).style.visibility = "visible";
+    crop = "";
+    acreAmount = 0;
+    }
+  }
+
+  function updateAcre(){
+    acreAmount = document.getElementById('acreAmount').value;
+    console.log(acreAmount);
+  }
+
+  function updateCrop(){
+    var selected = document.getElementById('cropSelected').value;
+    if(selected === 'strawberry'){
+      url = 'https://cgbrem.github.io/weather-yield-json/weather_strawberry_data.json';
+      crop = 'strawberry';
+    }
+    if(selected === 'corn'){
+      url = 'https://cgbrem.github.io/weather-yield-json/weather_corn_data.json';
+      crop = 'corn';
+    }
+    if(selected === 'tomato'){
+      url = 'https://cgbrem.github.io/weather-yield-json/weather_tomato_data.json';
+      crop = 'tomato';
+    }
+    if(selected === 'snap_peas'){
+      url = 'https://cgbrem.github.io/weather-yield-json/weather_snap_data.json';
+      crop = 'snap';
+    }
+    console.log(crop);
+  }
+
+  function updatePlot(button){
+    if(button === "modelButton"){
+      plotName = "yieldPlot";
+      loader = "loaderVisible";
+      loaderText = "loaderText";
+    }
+    if(button === "compareButton"){
+      plotName = "comparePlot";
+      loader = "loaderVisibleComp";
+      loaderText = "loaderTextComp";
+    }
   }
