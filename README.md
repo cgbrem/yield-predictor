@@ -1,2 +1,2 @@
 # yield-predictor
-Senior thesis for the Stony Brook University Honors College.
+Senior thesis for Stony Brook University's Honors College.
