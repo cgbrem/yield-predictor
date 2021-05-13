@@ -34,15 +34,15 @@
   </nav>
   <div class="appContainer m1">
     <div class="row">
-      <div class="col-2">
-        <h4>Application</h4>
-        <p>Fill in all inputs below and once finished, click the 'Train Model' button below to view the predicted yield results for the upcoming years.</p>
-        <p class="font-weight-bold">Results may vary everytime you train since the neural network is still in its infancy.</p>
-        <p class="font-weight-bold text-primary">RCP 8.5 is the worst case climate scenario. RCP 4.5 is an intermediate case climate scenario.</p>
+      <div class="col-3 textAdjust">
+        <h5>Application</h5>
+        <p>Fill in all inputs below and click the 'Submit' button to view the predicted yield results.
+        <strong>Results may vary everytime you train since the neural network is still in its infancy.<strong>
+        <a class="font-weight-bold text-primary">RCP 8.5 is the worst case climate scenario. RCP 4.5 is an intermediate case climate scenario.</a></p>
         <Label class="font-weight-bold">Enter Acre Amount:</Label><br/>
-        <input id="acreAmount" onKeyUp="updateAcre()"></input><br/>
-        <Label class="font-weight-bold">Select Crop to Predict:</Label><br/>
-        <select id="cropSelected" onChange="updateCrop()" onFocus="this.selectedIndex = -1;">
+        <input id="acreAmount" onKeyUp="updateAcre('model')"></input><br/>
+        <Label class="font-weight-bold">Select Crop:</Label><br/>
+        <select id="cropSelected" onChange="updateCrop('model')" onFocus="this.selectedIndex = -1;">
           <option value="strawberry">Strawberry</option>
           <option value="corn">Corn</option>
           <option value="tomato">Tomato</option>
@@ -50,12 +50,12 @@
         </select>
         <br/><br/>
         <button class="font-weight-bold btn btn-primary text-white" id="modelButton" onClick="updatePlot('modelButton'); run();">Submit</button>
-        <div id="secondCrop"> 
-          <h4>Compare with another Crop</h4>
+        <div id="secondCrop" class=""> 
+          <br/><h5>Choose Crop to Compare</h5>
           <Label class="font-weight-bold">Enter Acre Amount:</Label><br/>
-          <input id="acreAmountComp" onKeyUp="updateAcre()" disabled></input><br/>
-          <Label class="font-weight-bold">Select Crop to Predict:</Label><br/>
-          <select id="cropSelectedComp" onChange="updateCrop()" onFocus="this.selectedIndex = -1;" disabled>
+          <input id="acreAmountComp" onKeyUp="updateAcre('comp')" disabled></input><br/>
+          <Label class="font-weight-bold">Select Crop:</Label><br/>
+          <select id="cropSelectedComp" onChange="updateCrop('comp')" onFocus="this.selectedIndex = -1;" disabled>
             <option value="strawberry">Strawberry</option>
             <option value="corn">Corn</option>
             <option value="tomato">Tomato</option>

@@ -1,4 +1,3 @@
-
 var predictedData = [];
 var acreAmount = undefined;
 var url = 'https://cgbrem.github.io/weather-yield-json/weather_strawberry_data.json';
@@ -199,6 +198,9 @@ function convertToTensor(data) {
     if(acreAmount === undefined){
       alert("Please Enter Acre Amount");
     }
+    else if(acreAmount === 0){
+      alert("Please Update Acre Amount");
+    }
     else{
     document.getElementById('acreAmountComp').disabled=false;
     document.getElementById('cropSelectedComp').disabled=false;
@@ -313,7 +315,9 @@ function convertToTensor(data) {
       console.log(trace2);
 
     var cornLayout = {
-        autosize: true,
+      autosize: false,
+      width: 850,
+      height: 300,
         margin: {
             l: 50,
             r: 50,
@@ -327,12 +331,14 @@ function convertToTensor(data) {
     };
 
     var strawberryLayout = {
-      autosize: true,
+      autosize: false,
+      width: 850,
+      height: 300,
       margin: {
           l: 50,
           r: 50,
-          b: 100,
-          t: 100,
+          b: 50,
+          t: 50,
           pad: 4
         },
       title: {text: 'Predicted Total Strawberry Yields'},
@@ -341,7 +347,9 @@ function convertToTensor(data) {
     };
 
     var snapLayout = {
-      autosize: true,
+      autosize: false,
+      width: 850,
+      height: 300,
       margin: {
           l: 50,
           r: 50,
@@ -355,7 +363,9 @@ function convertToTensor(data) {
     };
 
     var tomatoLayout = {
-      autosize: true,
+      autosize: false,
+      width: 850,
+      height: 300,
       margin: {
           l: 50,
           r: 50,
@@ -381,18 +391,26 @@ function convertToTensor(data) {
     document.getElementById(loader).style.visibility = "hidden";
     document.getElementById(loaderText).style.visibility = "hidden";
     document.getElementById(plotName).style.visibility = "visible";
-    crop = "";
+    crop = "strawberry";
     acreAmount = 0;
     }
   }
 
-  function updateAcre(){
-    acreAmount = document.getElementById('acreAmount').value;
+  function updateAcre(param){
+    if(param === "model")
+      selected = document.getElementById('acreAmount').value;
+    else if(param === "comp")
+      selected = document.getElementById('acreAmountComp').value;
+    acreAmount = selected;
     console.log(acreAmount);
   }
 
-  function updateCrop(){
-    var selected = document.getElementById('cropSelected').value;
+  function updateCrop(param){
+    var selected;
+    if(param === "model")
+      selected = document.getElementById('cropSelected').value;
+    else if(param === "comp")
+      selected = document.getElementById('cropSelectedComp').value;
     if(selected === 'strawberry'){
       url = 'https://cgbrem.github.io/weather-yield-json/weather_strawberry_data.json';
       crop = 'strawberry';
